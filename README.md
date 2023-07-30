@@ -97,7 +97,7 @@ The entire application is responsive for both mobile and desktop devices to ensu
 - `react-redux (^8.1.1)`: A package that allows React components to interact with the Redux store, enabling efficient state management.
 - `tailwindcss (3.3.3)`: A utility-first CSS framework for building custom user interfaces. It provides a wide range of pre-designed utility classes for styling components.
 
-Dev Dependencies
+### Dev Dependencies
 
 - `daisyui (^3.5.0)`: A plugin for Tailwind CSS that provides additional utility classes and components to enhance the development experience. It helps to reduce the amount of custom CSS code required for styling.
 
